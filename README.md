@@ -22,4 +22,4 @@ A responsive NGO website developed for the NayePankh Foundation Internship Selec
 This project aims to provide an engaging and informative online presence for NayePankh Foundation while encouraging volunteer participation and community engagement.
 
 ## Author
-Your Name
+Bhagya Lakshmi Jana
